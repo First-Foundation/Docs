@@ -1,5 +1,5 @@
 site_name: First Foundation
 nav:
   - Home: index.md
-
+  - Tools: tools.md
 theme: readthedocs
