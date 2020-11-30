@@ -1,0 +1,1 @@
+[sample.md](https://first-foundation.github.io/Docs/user_guide/sample.md)

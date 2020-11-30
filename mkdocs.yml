@@ -1,5 +1,11 @@
 site_name: First Foundation
 nav:
   - Home: index.md
-  - Tools: tools.md
+  - User Guide: 
+    - User Guides: usrg_userguides.md
+    - Windows Sample: usrg_win_sample.md
+  - Education: 
+    - Cyber Security: edu_cyber_sec.md
+    - Programming: edu_programming.md
+
 theme: readthedocs
